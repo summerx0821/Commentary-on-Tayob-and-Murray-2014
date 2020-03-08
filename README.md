@@ -6,3 +6,5 @@ Two R files are included:
     + A function to use the formula provided in the paper to calculate the proportion of events captured (*p*) 
 * Function.simulate.power.R
     + A function to estimate the powers in Table 1 by simulations
+
+Reference: _Xia, M., & Murray, S. (2019). Commentary on Tayob and Murray (2014) with a useful update pertaining to study design. Biostatistics, 20(3), 542-545._
